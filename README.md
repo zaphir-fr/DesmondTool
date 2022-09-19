@@ -15,18 +15,24 @@
 
 - When the tool is getting updated? Really soon. Working on everything 
 
+- 18 Option Discord
+- 4 Option Webtool 
+
 
 ### More Stars?
 - As we will reach 25 stars, we will add (we promised and we added the token gen  for you)[COMPLETED]
 - As we will reach 50 stars, We will add (Facebook spammer, number spammer, reverse shell and many more ) [BETA IN PROGRESS]
 - As we reach 100 stars the code will be public ( will thinking to do it)
 
+### Python 3.8.2
+- [Download](https://www.python.org/downloads/release/python-382/) Python3.8.2
+- Add Path 
+![image](https://media.discordapp.net/attachments/1003662310335860789/1021546328548966510/unknown.png)
 
 ### Getting Started
 - git clone https://github.com/zaphir-fr/DesmondTool.git
 - cd DesmondTool
-- python -m pip install -r requirements.txt
-- for(Windows user just run the bat file (start.bat) )
+- Run start.bat
 - Run Python DesmondTool.py 
 
 
