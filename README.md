@@ -20,9 +20,9 @@
 
 
 ### More Stars?
-- As we will reach 25 stars, we will add (we promised and we added the token gen  for you)[COMPLETED]
-- As we will reach 50 stars, We will add (Facebook spammer, number spammer, reverse shell and many more ) [BETA IN PROGRESS]
-- As we reach 100 stars the code will be public ( will thinking to do it)
+- ❌ 25 stars
+- ❌ 50 stars
+- ❌ 100 stars
 
 ### Python 3.8.2
 - [Download](https://www.python.org/downloads/release/python-382/) Python3.8.2
@@ -39,9 +39,9 @@
 
 
 ### Preview
-![image](https://media.discordapp.net/attachments/1007084285116829830/1021446344918966282/Capre.PNG)
-![image](https://media.discordapp.net/attachments/1007084285116829830/1021446667343503470/unknown.png)
-![image](https://media.discordapp.net/attachments/1007084285116829830/1021447103811174420/unknown.png)
+![image](https://media.discordapp.net/attachments/1020817622796877824/1021568971943710730/unknown.png)
+![image](https://media.discordapp.net/attachments/1020817622796877824/1021569115183386674/unknown.png)
+![image](https://media.discordapp.net/attachments/1020817622796877824/1021569288794022048/unknown.png)
 
 
 ### Developer 
