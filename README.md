@@ -1,4 +1,4 @@
-### Desmond Tool 1.0 Soon
+### Desmond Tool 1.0 Beta
 
 
 - 1.0 VERSION IS HERE
