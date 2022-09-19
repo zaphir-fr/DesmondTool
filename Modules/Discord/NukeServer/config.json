@@ -1,0 +1,13 @@
+{
+    "token": "",
+
+    "webhook_name": "By DesmondTool ",
+    "webhook_content": " @everyone",
+    "spam_per_webhook": 150,
+
+    "chan_nuke_amount": 250,
+    "chan_nuke_name": "By Zaphir", 
+
+
+    "global_thread_count": 70
+}
